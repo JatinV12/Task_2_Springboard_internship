@@ -1,25 +1,14 @@
 <!-- social media connecting shield -->
 
-[![Instagram][instagram-shield]][instagram-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![Github][github-shield]][github-url]
 
-![Screenshot](https://github.com/sJalui/Infosys-Sprinboard-Task-2/blob/main/Screenshot%202024-12-16%20202823.png?raw=true)
 
-# ✨ Retail Sales Performance Dashboard with Power BI | Infosys Springboard Task 2 
+![task2](https://github.com/user-attachments/assets/3f9b2eb9-287d-4175-a92c-5cf3602a038b)
 
-Hello 👋, I'm <strong>Shubh Jalui</strong>. In this repository I built a `Retail Sales Performance Dashboard`. Using `Power BI and it's tools`.
 
-<!-- my social media links -->
+#  Retail Sales Performance Dashboard with Power BI | Infosys Springboard Task 2 
 
-[instagram-url]: https://www.instagram.com/s_jalui
-[linkedin-url]: https://in.linkedin.com/in/shubh-jalui-1923b1259
-[github-url]: https://www.github.com/sJalui
-<!-- shield icon links -->
 
-[instagram-shield]: https://img.shields.io/badge/-Instagram-black.svg?style=flat-square&logo=instagram&color=555&logoColor=white
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[github-shield]: https://img.shields.io/badge/-Github-black.svg?style=flat-square&logo=github&color=555&logoColor=white
+
 
 
 ## Task 2
